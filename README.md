@@ -1,8 +1,12 @@
 # Amazon-Sales-Data-Analysis
 Project Title: Analyzing Amazon Sales data
+
 Technologies: Business Intelligence
+
 Domain: E-commerce
+
 Project Difficulties level: Advanced
+
 # Problem Statement:
 Sales management has gained importance to meet increasing competition and the need
 for improved methods of distribution to reduce cost and to increase profits. Sales
